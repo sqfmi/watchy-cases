@@ -6,6 +6,9 @@ Now with injection molded or CNC'd aluminum case
 
 For more details, visit https://watchy.sqfmi.com/
 
+## Submit your design to our contest! Cash Prizes of $500, $250, and $100. Ends 03/23/2021
+For more details, go to https://watchy.sqfmi.com/contest/
+
 ## Got a cool design? Share it with us!
 - Submit a pull request or comment in issues (1 directory per design ideally)
 - Please provide the following in your README:
