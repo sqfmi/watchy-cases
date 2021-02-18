@@ -6,8 +6,6 @@ List of files : Top, Bottom and Button
 
 Here is **Peechy**, a cross design between _Pebble_ and _Watchy_.
 
-STL Files : ( Can't upload STL directly )  [Peechy-STL.zip](https://github.com/sqfmi/watchy-cases/files/5939109/Peechy-STL.zip)
-
 I'm not an expert in 3D or technical design, the files are not as clean as the reference design, I tried to submit a design that would fullfil my wishes about the watch.
 
 What I love about Watchy, is the blunt design, I really likes the fact that you can see the components directly on your wrist, making the form being the function.
