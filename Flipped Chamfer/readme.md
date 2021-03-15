@@ -6,4 +6,10 @@ Design Notes: The primary goal was to create the slimmest design possible for ei
 
 Included Files: Several Renders in Aluminum and ABS, Step Files for each design and native Solidworks files.  
 
+Flipped Chamfer - Regular Watch Band - Aluminum
+
+![alt text](https://github.com/demseyk/watchy-cases/blob/main/Flipped%20Chamfer/Renders/Watchy%20-%20Champ%20-%20Reg%20-%20AL%20-%201.png)
+
+Flipped Chamfer - Apple Watch Band - Aluminum
+
 ![alt text](https://github.com/demseyk/watchy-cases/blob/main/Flipped%20Chamfer/Renders/Watchy%20-%20Champ%20-%20Apple%20-%20AL%20-%201.png)
