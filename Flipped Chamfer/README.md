@@ -13,3 +13,5 @@ Flipped Chamfer - Regular Watch Band - Aluminum
 Flipped Chamfer - Apple Watch Band - Aluminum
 
 ![alt text](https://github.com/demseyk/watchy-cases/blob/main/Flipped%20Chamfer/Renders/Watchy%20-%20Champ%20-%20Apple%20-%20AL%20-%201.png)
+
+
