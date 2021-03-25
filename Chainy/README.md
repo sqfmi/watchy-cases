@@ -1,0 +1,32 @@
+- Name: Chainy
+- Author: uncle-yura
+- License: MIT
+- List of files:
+    - GIF:
+        - Watchy_1.gif - main case animation
+    - JPEG:
+        - Face.png - watch face for render
+        - Watchy_1.jpg - case render
+    - STEP:
+        - Button.STEP
+        - Case_Bottom.STEP
+        - Case_Top.STEP
+        - Plug.STEP
+        - Watchy_Chain.STEP
+    - STL:
+        - Button.STL
+        - Case_Bottom.STL
+        - Case_Top.STL
+        - Plug.STL
+        - Watchy_Chain.STL
+    - SW2018:   
+        - Button.SLDPRT
+        - Case_Assembly.SLDASM
+        - Case_Bottom.SLDPRT
+        - Case_Top.SLDPRT
+        - Plug.SLDPRT
+        - Watchy.SLDPRT
+        - Watchy_Battery.SLDASM
+        - Watchy_Chain.SLDPRT
+        - Watchy_PCB.SLDPRT
+
