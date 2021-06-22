@@ -1,16 +1,16 @@
-# What is Watchy?
-For more details, visit https://watchy.sqfmi.com
-
 # Watchy Cases
 Collection of Watchy Case/Body designs.
+
+Learn more about Watchy here: https://watchy.sqfmi.com
+
 You can find Watchy's base model [here](https://github.com/sqfmi/watchy-cases/tree/main/watchy)
 
-## Official Watchy Cases
+# Official Watchy Cases
 There are 2 official Watchy cases:
 - [Yatari](/Yatari/) (Injection Molded Plastic)
 - [Armadillonium](/Armadillonium/) (CNC Anodized Aluminum)
 
-## Got a cool design? Share it with us!
+# Got a cool design? Share it with us!
 - Submit a pull request or comment in issues
 - Please provide the following in your README:
     - Name of design
