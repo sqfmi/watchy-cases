@@ -1,23 +1,22 @@
-# Submit your design to our contest! Cash Prizes of $500, $250, and $100. Ends 11:59PM PST 03/23/2021
-For more details, go to https://watchy.sqfmi.com/contest/
-
-[**Pre-order Watchy!**](https://www.crowdsupply.com/sqfmi/watchy)
-Now with injection molded or CNC'd aluminum case
-
-For more details, visit https://watchy.sqfmi.com/
+# What is Watchy?
+For more details, visit https://watchy.sqfmi.com
 
 # Watchy Cases
 Collection of Watchy Case/Body designs.
 You can find Watchy's base model [here](https://github.com/sqfmi/watchy-cases/tree/main/watchy)
 
+## Official Watchy Cases
+There are 2 official Watchy cases:
+- [Yatari](/Yatari/) (Injection Molded Plastic)
+- [Armadillonium](/Armadillonium/) (CNC Anodized Aluminum)
+
 ## Got a cool design? Share it with us!
-- Submit a pull request or comment in issues (1 directory per design ideally)
+- Submit a pull request or comment in issues
 - Please provide the following in your README:
     - Name of design
     - Author/credits
     - License (e.g. MIT/CC by SA/etc.)
-    - List of files (e.g. 1 x top.stl, 1 x bottom.stl, 4 x button.stl ... )
-    - Assembly and printing tips, if any
-    - Photos! If you have any photos of the actual print or renders, please share! We will also try to print every submission to test it out
+    - List of files (e.g. 1 x top.stl, 1 x bottom.stl, 4 x button.stl, model.step, ... )
+    - Any assembly/printing/machining tips
+    - Photos (real and/or renders)
     - Any links for more information
-    
