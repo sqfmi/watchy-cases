@@ -1,7 +1,7 @@
 Boxy!
 ===
 
-By Tythe
+By [@Tythe](https://github.com/Tythe)
 
 Description
 ---
