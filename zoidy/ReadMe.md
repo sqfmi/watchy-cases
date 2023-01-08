@@ -11,4 +11,5 @@ In thinking about this design I had in mind people who will 3d print or CNC thei
 
 This incomplete draft is still missing binding pins and screws. It could use some engineering improvements and needs some aesthetic refinement. It's more of a design concept at this point, regardless I hope you find it interesting.
 
-License: Attribution 4.0 International (CC BY 4.0)
+
+Zoidy © 2021 by Rajendra Serber is licensed under Attribution 4.0 International 
