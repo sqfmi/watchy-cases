@@ -12,4 +12,4 @@ In thinking about this design I had in mind people who will 3d print or CNC thei
 This incomplete draft is still missing binding pins and screws. It could use some engineering improvements and needs some aesthetic refinement. It's more of a design concept at this point, regardless I hope you find it interesting.
 
 
-Zoidy © 2021 by Rajendra Serber is licensed under Attribution 4.0 International 
+Zoidy © 2021 by Rajendra Serber is licensed under Attribution 4.0 International. Use this for whatever you like, just include an atribution. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
