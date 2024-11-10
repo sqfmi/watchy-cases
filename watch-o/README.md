@@ -4,8 +4,8 @@ Watch-o Watchy Case
 | | |
 |---|---|
 | Name | Watch-o |
-| Author | abetusk |
-| License | CC0 |
+| Author | [@abetusk](https://github.com/abetusk) |
+| License | [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) |
 
 | | |
 |---|---|
