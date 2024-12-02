@@ -1,5 +1,7 @@
+# Party
+
 - Name: Party
-- Author: uncle-yura
+- Author: [@uncle-yura](https://github.com/uncle-yura)
 - License: MIT
 - List of files:
     - GIF:
@@ -43,4 +45,8 @@
         - Watchy_Battery_Case.SLDPRT
         - Watchy_Battery_Case_Cap.SLDPRT
         - Watchy_PCB.SLDPRT
+
+![Party GIF 0](GIF/Party_0.gif)
+![Party GIF 1](GIF/Party_1.gif)
+![Party GIF 2](GIF/Party_2.gif)
 
